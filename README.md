@@ -24,7 +24,6 @@
 ```
 pip install -r requirements.txt
 pip install pycryptodome
-
 ```
 
 ### 运行程序
